@@ -1,0 +1,44 @@
+#d1{
+  background-color:#e3fdfd;
+  padding: 2% 10%;
+  font-family: 'Ubuntu', sans-serif;
+}
+.AITU{
+  margin-left: 60px;
+}
+.down-button{
+  margin-right: 10px;
+  margin-top: 10px;
+}
+#features{
+  padding: 2% 10%;
+}
+.baby{
+  font-size: 75px;
+  margin-bottom: 20px;
+  color: #71c9ce;
+}
+.dot{
+  font-size: 75px;
+  margin-bottom: 20px;
+  color: #71c9ce;
+}
+.sign{
+  font-size: 75px;
+  margin-bottom: 20px;
+  color: #71c9ce;
+}
+#features{
+  text-align: center;
+  padding: 100px;
+
+}
+#comment{
+  background-color: #ffb6b9;
+  text-align: center;
+}
+.slide{
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+}
